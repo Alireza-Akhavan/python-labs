@@ -10,7 +10,8 @@ SRTTU: Labs for python
 
 امید است تا انتهای ماژول 6 حتما پوشش داده شود، مابقی مباحث بر اساس روند کلاس و علاقه دانشجویان خواهد بود
 
-Course Syllabus
+***Course Syllabus:***
+
 Module 1 - Python Basics
 
     Your first program
