@@ -21,13 +21,14 @@ SRTTU: Labs for python
 <br>
 در زیر سیلابس پیشنهادی برای این ترم لیست شده است.
 <br>
-امید است تا انتهای ماژول 6 حتما پوشش داده شود، مابقی مباحث بر اساس روند کلاس و علاقه دانشجویان خواهد بود.
+امید است تا انتهای ماژول 7 حتما پوشش داده شود، مابقی مباحث بر اساس روند کلاس و علاقه دانشجویان خواهد بود.
 </div>
 
 ***Course Syllabus:***
 
 Module 1 - Python Basics
 
+    How to install Python?
     Your first program
     Input and output
     Variables
@@ -36,9 +37,10 @@ Module 1 - Python Basics
     Expressions and Variables
     String Operations
 
-Module 2 - Python Data Structures
+Module 2 - Python Data Structures & Containers
 
-    Lists and Tuples
+    Lists
+    Tuples
     Sets
     Dictionaries
 
@@ -48,14 +50,24 @@ Module 3 - Python Programming Fundamentals
     Loops
     Functions
     Objects and Classes
-
-Module 4 - Intro to Data science
-
     Functions and Packages
-    Numpy 
-    Matplotlib 
+    
+Module 4 - Numpy
 
-Module 5 - Working with Data in Python
+    Vectorization
+    Arrays
+    Array indexing
+    Datatypes
+    Array math
+    Broadcasting
+
+Module 5 - Visualization with Matplotlib
+    
+    Plotting
+    Subplots
+    Images
+
+Module 6 - Working with Data in Python
 
     Reading files with open
     Writing files with open
@@ -63,7 +75,7 @@ Module 5 - Working with Data in Python
     Working with and Saving data with Pandas
 
 
-Module 6 - Importing Datasets
+Module 7 - Importing Datasets
 
     Learning Objectives
     Understanding the Domain
@@ -72,7 +84,7 @@ Module 6 - Importing Datasets
     Importing and Exporting Data in Python
     Basic Insights from Datasets
 
-Module 7 - Cleaning the Data
+Module 8 - Cleaning the Data
 
     Identify and Handle Missing Values
     Data Formatting
@@ -80,7 +92,7 @@ Module 7 - Cleaning the Data
     Binning
     Indicator variables
 
-Module 8 - Summarizing the Data Frame
+Module 9 - Summarizing the Data Frame
 
     Descriptive Statistics
     Basic of Grouping
@@ -88,7 +100,7 @@ Module 8 - Summarizing the Data Frame
     Correlation
     More on Correlation
 
-Module 9 - Model Development
+Module 10 - Model Development
 
     Simple and Multiple Linear Regression
     Model Evaluation Using Visualization
@@ -96,7 +108,7 @@ Module 9 - Model Development
     R-squared and MSE for In-Sample Evaluation
     Prediction and Decision Making
 
-Module 10 - Model Evaluation
+Module 11 - Model Evaluation
 
     Model  Evaluation
     Over-fitting, Under-fitting and Model Selection
@@ -104,7 +116,7 @@ Module 10 - Model Evaluation
     Grid Search
     Model Refinement
     
-Module 11 - More about Visualization Tools
+Module 12 - More about Visualization Tools
 
     Introduction to Data Visualization
     Introduction to Matplotlib
@@ -119,13 +131,19 @@ Module 11 - More about Visualization Tools
     Scatter Plots
     Bubble Plots
 
-Module 12 - Advanced Visualization Tools
+Module 13 - Advanced Visualization Tools
 
     Waffle Charts
     Word Clouds
     Seaborn and Regression Plots
-    
-Module 13 - Intro to Unit Testing and Test Driven Development in Python
+
+Module 14 - SciPy
+
+    Image operations
+    MATLAB files
+    Distance between points
+
+Module 15 - Intro to Unit Testing and Test Driven Development in Python
 
     Overview of Unit Testing and Test Driven Development
     XUnit
